@@ -45,7 +45,7 @@
           "師匠オールスターズ",
           null,
           "師傅大集合",
-          null,
+          "全明星师父",
           null
         ],
         "characterId": 27
@@ -94,7 +94,7 @@
           "あいつとあたし",
           null,
           "那傢伙和我",
-          null,
+          "那家伙与我",
           null
         ],
         "characterId": 27
@@ -106,28 +106,28 @@
     "期待しといて！",
     "Just ya wait! ",
     "好好期待吧！",
-    null,
+    "敬请期待！",
     null
   ],
   "prefix": [
     "未来を引き寄せるのは",
     "The Pull Towards Our Future",
     "將未來拉近的是",
-    null,
+    "能将未来拉近的是……",
     null
   ],
   "releasedAt": [
     "1756620000000",
     null,
     "1774249200000",
-    null,
+    "1775538000000",
     null
   ],
   "skillName": [
     "迷わず一直線！",
     "No Hesitation, Full Steam Ahead!",
     "毫不猶豫，筆直向前！",
-    null,
+    "毫不犹豫地勇往直前！",
     null
   ],
   "skillId": 66,

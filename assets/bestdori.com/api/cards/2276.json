@@ -45,7 +45,7 @@
           "羽ばたきが巻き起こす風",
           null,
           "振翅捲起的風",
-          null,
+          "振翅掀起的风",
           null
         ],
         "characterId": 30
@@ -94,7 +94,7 @@
           "教うるは学ぶの半ば",
           null,
           "教學相長",
-          null,
+          "教学相长",
           null
         ],
         "characterId": 30
@@ -106,28 +106,28 @@
     "変わったわね。\n……あなたも、私も",
     "Things have since changed. ...You have, and I have, too",
     "我們都變了呢。\n……無論你，或是我",
-    null,
+    "真的变了呢。\n……无论是你，还是我",
     null
   ],
   "prefix": [
     "あれから、私たちは",
     "Ever Since Then, We",
     "從那之後，我們",
-    null,
+    "自那以后，我们……",
     null
   ],
   "releasedAt": [
     "1756620000000",
     null,
     "1774249200000",
-    null,
+    "1775538000000",
     null
   ],
   "skillName": [
     "今のあなたになら",
     "If It's Today's You",
     "對現在的你來說",
-    null,
+    "若是如今的你",
     null
   ],
   "skillId": 73,

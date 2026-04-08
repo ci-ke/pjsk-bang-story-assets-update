@@ -45,7 +45,7 @@
           "くるくるモニカ",
           null,
           "轉啊轉啊Monica",
-          null,
+          "团团转的Monica",
           null
         ],
         "characterId": 29
@@ -94,7 +94,7 @@
           "積み重ねてきたからこそ",
           null,
           "正因為累積的每一步",
-          null,
+          "正因为这日积月累",
           null
         ],
         "characterId": 29
@@ -106,28 +106,28 @@
     "ううん、私はわかるよ！\nだって私、リーダーだもん！",
     "No, I understand! Because I'm the leader!",
     "不會，我看得出來喔！\n畢竟，我是隊長嘛！",
-    null,
+    "不，我明白的！\n毕竟我是队长嘛！",
     null
   ],
   "prefix": [
     "共に過ごしたからこそ",
     "Because of the Time We Spent Together",
     "正因為一起度過",
-    null,
+    "正因为是共同度过的时光",
     null
   ],
   "releasedAt": [
     "1756620000000",
     null,
     "1774249200000",
-    null,
+    "1775538000000",
     null
   ],
   "skillName": [
     "なんでもお見通し！",
     "I Can See Through It All",
     "看穿一切！",
-    null,
+    "看穿一切！",
     null
   ],
   "skillId": 46,
