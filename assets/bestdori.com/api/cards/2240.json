@@ -43,7 +43,7 @@
         },
         "title": [
           "お菓子は１人１個です",
-          null,
+          "One Snack per Person Only",
           "點心是一人一個",
           "点心每人限一份",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "素直な瞳で",
-          null,
+          "With Honest Eyes",
           "用坦率的眼神",
           "以澄澈的目光",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2183,
   "gachaText": [
     "うん。野菜やお肉の下ごしらえは\n分担して早く済ませちゃおう",
-    "Mhm. Let's split up the meat and vegetables between us, and we'll be done in no time.",
+    "Yeah. Let’s divide the prep work for the veggies and meat so we can finish quickly.",
     "嗯。蔬菜跟肉類的前置處理\n我們分工快點完成吧",
     "嗯。分工处理蔬菜和肉，\n尽快解决吧",
     null
   ],
   "prefix": [
     "愛情を込めて",
-    "Made With Love",
+    "With a Touch of Love",
     "傾注愛意",
     "倾注爱意",
     null
   ],
   "releasedAt": [
     "1750399200000",
-    null,
+    "1775782800000",
     "1767337200000",
     "1768885200000",
     null
   ],
   "skillName": [
     "一人暮らしのスキル",
-    "Skills Gained from Living Alone",
+    "Solo Living Skills",
     "獨居的技能",
     "独居生活技能",
     null

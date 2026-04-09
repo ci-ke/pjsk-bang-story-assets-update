@@ -43,7 +43,7 @@
         },
         "title": [
           "モーニングホットケーキ",
-          null,
+          "Morning Pancakes",
           "早上熱呼呼的鬆餅",
           "晨间的松饼",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "共に過ごす未来のために",
-          null,
+          "For a Future Together",
           "為了我們共度的未來",
           "为了共度的未来",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2179,
   "gachaText": [
     "――あ、お母さん……\nおはよう。",
-    "...Ah, mother... Good morning.",
+    "—Ah, Mom... Morning.",
     "――啊，媽媽……\n早安。",
     "——啊，妈妈……\n早上好。",
     null
   ],
   "prefix": [
     "世界が変わる朝",
-    "The Morning My World Changed",
+    "A Morning That Changed It All",
     "世界改變的早晨",
     "世界焕然一新的清晨",
     null
   ],
   "releasedAt": [
     "1750399200000",
-    null,
+    "1775782800000",
     "1767337200000",
     "1768885200000",
     null
   ],
   "skillName": [
     "着実に、一歩ずつ",
-    "Solidly, Step by Step",
+    "One Step at a Time",
     "確實地，一步一步",
     "稳步前进，一步一个脚印",
     null

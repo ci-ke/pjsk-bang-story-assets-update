@@ -43,7 +43,7 @@
         },
         "title": [
           "思い出、またひとつ",
-          null,
+          "One More Memory Made",
           "回憶，又多了一個",
           "回忆，再添一笔",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "言葉で聞かずとも",
-          null,
+          "Even Without Saying It",
           "不用說也能明白",
           "无需言传",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2180,
   "gachaText": [
     "に、苦い～……！",
-    "Ngh, it's bitter~...!",
+    "I-It’s bitter~...!",
     "好、好苦～……！",
     "好、好苦……！",
     null
   ],
   "prefix": [
     "スキ・キライ",
-    "Love・Hate",
+    "Love It or Hate It",
     "喜歡・討厭",
     "喜欢与讨厌",
     null
   ],
   "releasedAt": [
     "1750399200000",
-    null,
+    "1775782800000",
     "1767337200000",
     "1768885200000",
     null
   ],
   "skillName": [
     "プロデューサーの天敵",
-    "Producer's Mortal Enemy",
+    "The Producer’s Worst Enemy",
     "製作人的天敵",
     "制作人的天敌",
     null

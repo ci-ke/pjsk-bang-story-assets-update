@@ -4721,7 +4721,7 @@
         "id": 3050004,
         "eventId": 305,
         "fromRank": 4,
-        "toRank": 4,
+        "toRank": 10,
         "rewardType": "deco_pins",
         "rewardId": 103050,
         "rewardQuantity": 1,

@@ -7725,7 +7725,7 @@
     "eventType": "live_try",
     "eventName": [
       "Baby steps!",
-      null,
+      "Baby steps!",
       "Baby steps!",
       "Baby steps!",
       null
@@ -7734,14 +7734,14 @@
     "bannerAssetBundleName": "banner_event298",
     "startAt": [
       "1750399200000",
-      null,
+      "1775782800000",
       "1767423600000",
       "1768885200000",
       null
     ],
     "endAt": [
       "1751025599000",
-      null,
+      "1776409199000",
       "1768136399000",
       "1769698799000",
       null
