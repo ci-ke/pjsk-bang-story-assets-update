@@ -8475,6 +8475,32 @@
       null
     ]
   },
+  "327": {
+    "eventType": "mission_live",
+    "eventName": [
+      "黎明のスタン・バイ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "kaochisa_reimei",
+    "bannerAssetBundleName": "banner_event327",
+    "startAt": [
+      "1775800800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1776513599000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
   "5001": {
     "eventType": "mission_live",
     "eventName": [
