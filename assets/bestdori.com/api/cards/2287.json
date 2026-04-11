@@ -44,7 +44,7 @@
         "title": [
           "この道の先で",
           null,
-          null,
+          "在這條路的盡頭",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "いつか注目の的に！",
           null,
-          null,
+          "總有一天會成為焦點！",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "う、初華からDM〜〜〜っ！？",
     "U-Uika just DMed meeeee!?",
-    null,
+    "欸，是初華傳來的DM〜〜〜！？",
     null,
     null
   ],
   "prefix": [
     "夕方の密会",
     "Secret Evening Rendezvous ",
-    null,
+    "傍晚的密會",
     null,
     null
   ],
   "releasedAt": [
     "1758261600000",
     null,
-    null,
+    "1775804400000",
     null,
     null
   ],
   "skillName": [
     "人目を忍んで",
     "Hidden from the Public Gaze",
-    null,
+    "避開他人的目光",
     null,
     null
   ],

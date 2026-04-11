@@ -44,7 +44,7 @@
         "title": [
           "ありがとうは突然に",
           null,
-          null,
+          "謝謝總是來得突然",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "遠くにありて",
           null,
-          null,
+          "遠在彼方",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "幸せでいて、ほしい",
     "I want you to be happy",
-    null,
+    "就這樣幸福著，是我所希望的",
     null,
     null
   ],
   "prefix": [
     "想いを綴るひとひら",
     "All of Her Thoughts, on this Single Sheet of Paper",
-    null,
+    "綴寫心意的一頁",
     null,
     null
   ],
   "releasedAt": [
     "1758261600000",
     null,
-    null,
+    "1775804400000",
     null,
     null
   ],
   "skillName": [
     "幸せを祈って",
     "Prayer for Your Happiness",
-    null,
+    "祈求幸福",
     null,
     null
   ],
