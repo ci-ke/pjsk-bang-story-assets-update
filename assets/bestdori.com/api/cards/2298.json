@@ -44,7 +44,7 @@
         "title": [
           "サウンドメモリー　前編",
           null,
-          null,
+          "聲音記憶 前篇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "サウンドメモリー　後編",
           null,
-          null,
+          "聲音記憶 後篇",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "……説明するより、\n聴いてもらったほうが早いかも",
     "...Instead of trying to explain, it might be faster if I just let you listen to it.",
-    null,
+    "……與其解釋，\n不如讓你聽聽看可能更快",
     null,
     null
   ],
   "prefix": [
     "ふたり、分け合って",
     "The Two of Us, Sharing",
-    null,
+    "兩人，彼此分享",
     null,
     null
   ],
   "releasedAt": [
     "1759125600000",
     null,
-    null,
+    "1776582000000",
     null,
     null
   ],
   "skillName": [
     "青春を感じるひととき",
     "A Moment Full of the Feeling of Youth",
-    null,
+    "感受青春的時光",
     null,
     null
   ],

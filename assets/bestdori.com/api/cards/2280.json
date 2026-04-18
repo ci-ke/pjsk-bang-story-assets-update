@@ -45,7 +45,7 @@
           "大切のための大切",
           null,
           "為了重要之物的重要",
-          null,
+          "为了重要的重要",
           null
         ],
         "characterId": 7
@@ -94,7 +94,7 @@
           "エモエモでイケイケ",
           null,
           "既感性又帥氣",
-          null,
+          "热情高涨活力四射",
           null
         ],
         "characterId": 7
@@ -106,28 +106,28 @@
     "ついに大作曲家モカちゃん先生も\nノートデビューか〜",
     "It's about time for the notebook debut of the Great Composer Moca~",
     "大作曲家摩卡老師終於也要\n在筆記本上出道了嗎～",
-    null,
+    "终于连大作曲家小摩卡老师\n也开始用笔记本啦~",
     null
   ],
   "prefix": [
     "Ｂ５サイズの無限大",
     "My Infinity, on this B5 Page",
     "Ｂ５尺寸的無限大",
-    null,
+    "B5尺寸的无限大",
     null
   ],
   "releasedAt": [
     "1757494800000",
     null,
     "1775199600000",
-    null,
+    "1776402000000",
     null
   ],
   "skillName": [
     "あたしの世界",
     "My World",
     "我的世界",
-    null,
+    "我的世界",
     null
   ],
   "skillId": 67,

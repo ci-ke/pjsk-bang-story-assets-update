@@ -45,7 +45,7 @@
           "ポピパな１日　前編",
           null,
           "Popipa的一天 前篇",
-          null,
+          "Popipa式的一天 前篇",
           null
         ],
         "characterId": 1
@@ -94,7 +94,7 @@
           "ポピパな１日　後編",
           null,
           "Popipa的一天 後篇",
-          null,
+          "Popipa式的一天 后篇",
           null
         ],
         "characterId": 1
@@ -106,28 +106,28 @@
     "うーん……あと５分……",
     "Mmm... 5 more minutes...",
     "嗯……再5分鐘……",
-    null,
+    "嗯……再睡五分钟……",
     null
   ],
   "prefix": [
     "すやすやと夢の中",
     "Dreamy Sleepy Snoozing",
     "香甜地在夢中",
-    null,
+    "酣然入梦",
     null
   ],
   "releasedAt": [
     "1757494800000",
     null,
     "1775199600000",
-    null,
+    "1776402000000",
     null
   ],
   "skillName": [
     "安らかな寝顔",
     "Sweetly Sleeping Face",
     "安穩的睡臉",
-    null,
+    "恬静的睡颜",
     null
   ],
   "skillId": 74,

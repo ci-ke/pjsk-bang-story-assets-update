@@ -45,7 +45,7 @@
           "ひま神様の言う通り！",
           null,
           "照著緋瑪神大人說的做！",
-          null,
+          "绯玛丽大神说得是！",
           null
         ],
         "characterId": 8
@@ -94,7 +94,7 @@
           "私たちを知ってほしくて",
           null,
           "想讓大家了解我們",
-          null,
+          "我们想要被了解",
           null
         ],
         "characterId": 8
@@ -106,28 +106,28 @@
     "久しぶりのライブなのに\nやらないの！？",
     "It's been ages since our last live, and you guys still don't wanna do it!?",
     "明明是久違的LIVE\n卻不做嗎！？",
-    null,
+    "明明是久违的演出，\n却不跟我喊口号吗！？",
     null
   ],
   "prefix": [
     "お気に入りルーチン？",
     "Everyone's Favourite Routine?",
     "喜歡的日常習慣？",
-    null,
+    "中意的日常？",
     null
   ],
   "releasedAt": [
     "1757494800000",
     null,
     "1775199600000",
-    null,
+    "1776402000000",
     null
   ],
   "skillName": [
     "もしかしてお約束",
     "Possible Promises",
     "難道是約定",
-    null,
+    "或许是约定",
     null
   ],
   "skillId": 45,

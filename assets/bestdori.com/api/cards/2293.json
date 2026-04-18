@@ -44,7 +44,7 @@
         "title": [
           "いざ、最高の衣装を！",
           null,
-          null,
+          "上吧，最棒的服裝！",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "憧れ、焦がれ",
           null,
-          null,
+          "憧憬與焦躁",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ロックさん、手を！",
     "LOCK-san, your hand, please!",
-    null,
+    "LOCK小姐，牽手吧！",
     null,
     null
   ],
   "prefix": [
     "勇者様の手を取って",
     "Grasping the Hand of the Hero",
-    null,
+    "牽起勇者的手",
     null,
     null
   ],
   "releasedAt": [
     "1759125600000",
     null,
-    null,
+    "1776582000000",
     null,
     null
   ],
   "skillName": [
     "メイデン・リーパー",
     "Maiden Reaper",
-    null,
+    "Maiden．Reaper",
     null,
     null
   ],

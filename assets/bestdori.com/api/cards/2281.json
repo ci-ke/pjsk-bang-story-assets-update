@@ -45,7 +45,7 @@
           "なりたかったもの",
           null,
           "曾經想成為的存在",
-          null,
+          "曾经向往的模样",
           null
         ],
         "characterId": 6
@@ -94,7 +94,7 @@
           "あたしたちらしい音",
           null,
           "像我們風格的聲音",
-          null,
+          "有我们风格的乐音",
           null
         ],
         "characterId": 6
@@ -106,28 +106,28 @@
     "うん、いいんじゃない。\nすごくあったかい感じがする",
     "Mhm, that sounds great. It's got such a warm feeling to it.",
     "嗯，不是挺好的嗎。\n非常溫暖的感覺",
-    null,
+    "嗯，那样不是很好嘛。\n给人一种很温暖的感觉",
     null
   ],
   "prefix": [
     "きみの世界の色",
     "The Colour of Your World",
     "你的世界的顏色",
-    null,
+    "你的世界的颜色",
     null
   ],
   "releasedAt": [
     "1757494800000",
     null,
     "1775199600000",
-    null,
+    "1776402000000",
     null
   ],
   "skillName": [
     "無限大の世界を教えて",
     "Teach Me About Your Infinite World",
     "告訴我無限大的世界",
-    null,
+    "带我领略无限大的世界",
     null
   ],
   "skillId": 72,

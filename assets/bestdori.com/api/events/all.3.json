@@ -7935,7 +7935,7 @@
       "パンと、ノートと、ギターと、きみ",
       "My Bread, My Notes, My Guitar, and You",
       "麵包、筆記本、吉他，與你",
-      null,
+      "面包、笔记、吉他与你",
       null
     ],
     "assetBundleName": "ranmoca_note",
@@ -7944,14 +7944,14 @@
       "1757494800000",
       null,
       "1775199600000",
-      null,
+      "1776402000000",
       null
     ],
     "endAt": [
       "1758110399000",
       null,
       "1775739599000",
-      null,
+      "1777042799000",
       null
     ]
   },
@@ -7986,7 +7986,7 @@
     "eventName": [
       "Trick&Trap！",
       null,
-      null,
+      "Trick&Trap！",
       null,
       null
     ],
@@ -7995,14 +7995,14 @@
     "startAt": [
       "1759125600000",
       null,
-      null,
+      "1776668400000",
       null,
       null
     ],
     "endAt": [
       "1759924799000",
       null,
-      null,
+      "1777294799000",
       null,
       null
     ]

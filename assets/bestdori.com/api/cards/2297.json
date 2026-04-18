@@ -44,7 +44,7 @@
         "title": [
           "ススキ祭り体験！　前編",
           null,
-          null,
+          "芒草祭體驗！ 前篇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "ススキ祭り体験！　後編",
           null,
-          null,
+          "芒草祭體驗！ 後篇",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ああ、キレイだな……",
     "Ah, it's beautiful...",
-    null,
+    "啊啊，真漂亮啊……",
     null,
     null
   ],
   "prefix": [
     "黄金色の絨毯",
     "A Carpet of Golden Warmth",
-    null,
+    "黃金色的地毯",
     null,
     null
   ],
   "releasedAt": [
     "1759125600000",
     null,
-    null,
+    "1776582000000",
     null,
     null
   ],
   "skillName": [
     "秋の風物詩",
     "Idyllic Scenes of Autumn",
-    null,
+    "秋天的景致",
     null,
     null
   ],

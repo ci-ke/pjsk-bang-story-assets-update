@@ -44,7 +44,7 @@
         "title": [
           "フラグメント・フラッグ",
           null,
-          null,
+          "Fragment・Flag",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "あなたの光と私の光",
           null,
-          null,
+          "你的光與我的光",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "モンスターたちよ！\nおやすみなさーーーい！！",
     "Monsters, listen up! It's time to go to beeeeeed!!",
-    null,
+    "怪物們啊！\n晚安囉——！！",
     null,
     null
   ],
   "prefix": [
     "闇に光を",
     "A Light Among the Darkness",
-    null,
+    "為黑暗帶來光芒",
     null,
     null
   ],
   "releasedAt": [
     "1759125600000",
     null,
-    null,
+    "1776582000000",
     null,
     null
   ],
   "skillName": [
     "ゴシック・デビル",
     "Gothic Devil",
-    null,
+    "Gothic．Devil",
     null,
     null
   ],

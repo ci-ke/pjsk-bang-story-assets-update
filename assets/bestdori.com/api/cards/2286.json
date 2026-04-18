@@ -45,7 +45,7 @@
           "今宵の月を共に　前編",
           null,
           "與今宵之月共賞 前篇",
-          null,
+          "共赏今宵明月 前篇",
           null
         ],
         "characterId": 21
@@ -94,7 +94,7 @@
           "今宵の月を共に　後編",
           null,
           "與今宵之月共賞 後篇",
-          null,
+          "共赏今宵明月 后篇",
           null
         ],
         "characterId": 21
@@ -106,28 +106,28 @@
     "これからも……一緒に\n思い出を作っていきたいわね",
     "From now on... let us keep making more memories, together.",
     "今後也想……一起創造回憶呢",
-    null,
+    "从今往后……我也想继续\n和你一起创造回忆呢",
     null
   ],
   "prefix": [
     "月明かりの下で",
     "Bathed in Moonlight",
     "在月光之下",
-    null,
+    "月光之下",
     null
   ],
   "releasedAt": [
     "1757494800000",
     null,
     "1775199600000",
-    null,
+    "1776402000000",
     null
   ],
   "skillName": [
     "次は５人で",
     "With All Five of Us, Next Time",
     "下次五個人一起",
-    null,
+    "下次要五个人一起",
     null
   ],
   "skillId": 77,

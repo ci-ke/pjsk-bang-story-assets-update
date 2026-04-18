@@ -9,28 +9,28 @@
   "gachaText": [
     null,
     null,
-    null,
+    "-",
     null,
     null
   ],
   "prefix": [
     "ハロウィン・チャンス",
     "Halloween Chance",
-    null,
+    "Halloween．Chance",
     null,
     null
   ],
   "releasedAt": [
     "1759125600000",
     null,
-    null,
+    "1776582000000",
     null,
     null
   ],
   "skillName": [
     "セメタリー・ノーブル",
     "Cemetery Noble",
-    null,
+    "Cemetery．Noble",
     null,
     null
   ],

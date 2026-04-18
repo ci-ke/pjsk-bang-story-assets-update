@@ -44,7 +44,7 @@
         "title": [
           "母の心を知らぬ人",
           null,
-          null,
+          "不知母親心情的人",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "グッバイパンプキン",
           null,
-          null,
+          "Goodbye Pumpkin",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "Don't come here！",
     null,
-    null,
+    "Don't come here！",
     null,
     null
   ],
   "prefix": [
     "ブレイクアウト・オブ",
     "Break Out Of",
-    null,
+    "Breakout．Of",
     null,
     null
   ],
   "releasedAt": [
     "1759125600000",
     null,
-    null,
+    "1776582000000",
     null,
     null
   ],
   "skillName": [
     "ブラッディ・フード",
     "Bloody Food",
-    null,
+    "Bloody．Hood",
     null,
     null
   ],
