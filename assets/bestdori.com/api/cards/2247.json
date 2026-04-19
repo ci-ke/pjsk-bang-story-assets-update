@@ -43,7 +43,7 @@
         },
         "title": [
           "雨宿りグルーヴ　前編",
-          null,
+          "Rain-Shelter Groove Pt. 1",
           "躲雨的律動　前篇",
           "避雨律动 前篇",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "雨宿りグルーヴ　後編",
-          null,
+          "Rain-Shelter Groove Pt. 2",
           "躲雨的律動　後篇",
           "避雨律动 后篇",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2190,
   "gachaText": [
     "香澄ちゃん、有咲ちゃん！\nあそこで雨宿りしよっ",
-    "Rainy Smile",
+    "Kasumi-chan, Arisa-chan! Let’s take shelter over there!",
     "小澄、小咲！\n去那邊躲雨吧",
     "小香澄、小有咲！\n就在那里避雨吧",
     null
   ],
   "prefix": [
     "放課後、雨と友",
-    "After School, with Rain and Friends",
+    "After School, Rain and Friends",
     "放學後，雨和朋友",
     "放学后，雨天和好友",
     null
   ],
   "releasedAt": [
     "1751176800000",
-    null,
+    "1776560400000",
     "1768201200000",
     "1770786000000",
     null
   ],
   "skillName": [
     "レイニースマイル",
-    null,
+    "Rainy Smile",
     "雨中笑容",
     "雨中的微笑",
     null

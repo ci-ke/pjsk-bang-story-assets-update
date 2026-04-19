@@ -43,7 +43,7 @@
         },
         "title": [
           "モデルに挑戦！？　前編",
-          null,
+          "Model Challenge!? Pt. 1",
           "挑戰當模特兒！？　前篇",
           "挑战做模特！？ 前篇",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "モデルに挑戦！？　後編",
-          null,
+          "Model Challenge!? Pt. 2",
           "挑戰當模特兒！？　後篇",
           "挑战做模特！？ 后篇",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2189,
   "gachaText": [
     "じゃあ……１回だけ……",
-    "Then... Just once...",
+    "Alright... just once...",
     "那我……就只穿一次哦……",
     "那……就这一次……",
     null
   ],
   "prefix": [
     "レンズ越しの恥じらい",
-    "Shyness Permeating Through the Lens",
+    "Shy Behind the Lens",
     "鏡頭對面的羞澀",
     "镜头前的羞涩",
     null
   ],
   "releasedAt": [
     "1751176800000",
-    null,
+    "1776560400000",
     "1768201200000",
     "1770786000000",
     null
   ],
   "skillName": [
     "夢見るゴシックハート",
-    "The Gothic Heart I've Seen in my Dreams",
+    "Dreaming Gothic Heart",
     "夢中的歌德之心",
     "哥特之心的梦",
     null

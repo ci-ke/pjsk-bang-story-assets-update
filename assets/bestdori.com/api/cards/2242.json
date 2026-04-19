@@ -43,7 +43,7 @@
         },
         "title": [
           "常連の悩み",
-          null,
+          "The Regular’s Dilemma",
           "常客的煩惱",
           "常客的烦恼",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "海の恥はかき捨て",
-          null,
+          "Leave Shame in the Waves",
           "忘掉海邊的糗事",
           "将海边的羞耻抛诸脑后",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2185,
   "gachaText": [
     "みんな……今行くからな……！",
-    "With Resolve in My Heart",
+    "Everyone... we’re coming...!",
     "各位……我們現在就過去……！",
     "大家……我们来了……！",
     null
   ],
   "prefix": [
     "大海に羽ばたく天馬",
-    "Thy Pegasus, Soaring through the Sea",
+    "Pegasus of the Open Sea",
     "振翅飛向大海的天馬",
     "向着大海展翅的天马",
     null
   ],
   "releasedAt": [
     "1751176800000",
-    null,
+    "1776560400000",
     "1768201200000",
     "1770786000000",
     null
   ],
   "skillName": [
     "決意を胸に",
-    null,
+    "Heart Full of Resolve",
     "懷抱決心",
     "胸怀决心",
     null

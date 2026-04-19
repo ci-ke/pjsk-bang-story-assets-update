@@ -43,7 +43,7 @@
         },
         "title": [
           "嬉し恥ずかし土産話",
-          null,
+          "A Shy but Happy Story",
           "又羞又喜的旅遊故事",
           "又喜又羞的出游趣事​",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "沈黙は金？",
-          null,
+          "Is Silence Golden?",
           "沉默是金？",
           "沉默是金？",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2184,
   "gachaText": [
     "……その、\n本当に怒ってないから。",
-    "...Well, I'm not actually mad.",
+    "...I mean it, I’m really not mad.",
     "……那個，\n我真的沒生氣啦。",
     "……那个，\n我真的没生气。",
     null
   ],
   "prefix": [
     "水面に煌めく陽光",
-    "Sparkling Sunlight on the Sea's Surface",
+    "Sunlight Glittering on Waves",
     "水面上閃爍的陽光",
     "水面上跃动的阳光",
     null
   ],
   "releasedAt": [
     "1751176800000",
-    null,
+    "1776560400000",
     "1768201200000",
     "1770786000000",
     null
   ],
   "skillName": [
     "戸惑いワンショット",
-    "Disorienting One-Shot",
+    "Awkward One-Shot",
     "困惑的鏡頭",
     "困惑的瞬间",
     null

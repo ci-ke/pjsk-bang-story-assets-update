@@ -43,7 +43,7 @@
         },
         "title": [
           "渡りに海！",
-          null,
+          "Ocean to the Rescue!",
           "時機正巧！",
           "渡海而行！",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "見守りリーダー！",
-          null,
+          "Watchful Leader!",
           "守望的隊長！",
           "守护型队长！",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2188,
   "gachaText": [
     "みんなで海、楽しも～！",
-    "Being at the beach with everyone is so fun~!",
+    "Let’s enjoy the beach together~!",
     "一起開心去海邊玩囉～！",
     "大家，一起享受海边吧~！",
     null
   ],
   "prefix": [
     "弾ける笑顔と水飛沫",
-    "Bursting with Smiles and Splashes",
+    "Splash and a Bright Smile",
     "綻放的笑容與水花",
     "绽放的笑容与水花",
     null
   ],
   "releasedAt": [
     "1751176800000",
-    null,
+    "1776560400000",
     "1768201200000",
     "1770786000000",
     null
   ],
   "skillName": [
     "水辺の攻防",
-    "Battle at the Waterfront",
+    "Clash at the Water’s Edge",
     "水邊的攻防",
     "水边攻防战",
     null
