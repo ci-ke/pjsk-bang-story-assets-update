@@ -110745,6 +110745,241 @@
       }
     }
   },
+  "2435": {
+    "characterId": 6,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res006090",
+    "prefix": [
+      "小指を交わして",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1776664800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 71,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3948,
+        "technique": 3662,
+        "visual": 3080
+      },
+      "60": {
+        "performance": 11765,
+        "technique": 10915,
+        "visual": 9178
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2436": {
+    "characterId": 8,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res008083",
+    "prefix": [
+      "夕暮れ時の約束",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1776664800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 67,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 4160,
+        "technique": 3281,
+        "visual": 3355
+      },
+      "60": {
+        "performance": 12395,
+        "technique": 9778,
+        "visual": 10001
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2437": {
+    "characterId": 9,
+    "rarity": 3,
+    "attribute": "powerful",
+    "levelLimit": 40,
+    "resourceSetName": "res009081",
+    "prefix": [
+      "鮮やかな手さばき",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1776664800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 9,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2997,
+        "technique": 3026,
+        "visual": 3773
+      },
+      "50": {
+        "performance": 8931,
+        "technique": 9015,
+        "visual": 11242
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2438": {
+    "characterId": 10,
+    "rarity": 2,
+    "attribute": "pure",
+    "levelLimit": 30,
+    "resourceSetName": "res010084",
+    "prefix": [
+      "爽風マリンスタイル",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1776664800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 5,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 1929,
+        "technique": 2485,
+        "visual": 1995
+      },
+      "30": {
+        "performance": 4842,
+        "technique": 6236,
+        "visual": 5007
+      }
+    }
+  },
+  "2439": {
+    "characterId": 7,
+    "rarity": 4,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res007081",
+    "prefix": [
+      "真剣なダメ出し？",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1776664800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 18,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3558,
+        "technique": 2903,
+        "visual": 3720
+      },
+      "60": {
+        "performance": 10605,
+        "technique": 8651,
+        "visual": 11085
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
   "5001": {
     "characterId": 1,
     "rarity": 2,
