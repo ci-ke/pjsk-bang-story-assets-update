@@ -7777,7 +7777,7 @@
     "eventType": "mission_live",
     "eventName": [
       "答えはどこに？キミの中に！",
-      "Where is the Truth? Inside of You!",
+      "Where’s the Answer? Inside You!",
       "答案在哪裡？就在你心裡！",
       "答案在哪里？在你心底里！",
       null
@@ -7786,14 +7786,14 @@
     "bannerAssetBundleName": "banner_event300",
     "startAt": [
       "1752127200000",
-      null,
+      "1777338000000",
       "1769151600000",
       "1769835600000",
       null
     ],
     "endAt": [
       "1752839999000",
-      null,
+      "1777964399000",
       "1769691599000",
       "1770649199000",
       null

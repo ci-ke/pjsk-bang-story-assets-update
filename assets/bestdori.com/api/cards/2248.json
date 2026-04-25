@@ -43,7 +43,7 @@
         },
         "title": [
           "お互いへの信頼",
-          null,
+          "Trust in Each Other",
           "對彼此的信賴",
           "彼此的信赖",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "踏み出して得たもの",
-          null,
+          "What You Gain by Stepping Up",
           "踏出一步獲得的事物",
           "迈出一步的收获",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2191,
   "gachaText": [
     "フヘヘ……\nこの調子でいきましょう！",
-    "Huhehe... Let's keep this momentum going!",
+    "Huhehe... Let’s keep it up!",
     "呼嘿嘿……\n就照這個氣勢上吧！",
     "呼嘿嘿……\n保持这个势头继续吧！",
     null
   ],
   "prefix": [
     "冴え渡る読み",
-    "Precise and Brilliant Judgment",
+    "Sharp Insight",
     "敏銳的洞察力",
     "透彻的解读",
     null
   ],
   "releasedAt": [
     "1752127200000",
-    null,
+    "1777338000000",
     "1769065200000",
     "1769835600000",
     null
   ],
   "skillName": [
     "パスパレのクイズ王",
-    "Pasupare's Quiz Queen",
+    "Pastel＊Palettes’ Quiz Queen",
     "PasPale的問答王",
     "PasPale的问答之王",
     null

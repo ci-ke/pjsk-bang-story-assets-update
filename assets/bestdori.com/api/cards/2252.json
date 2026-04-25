@@ -43,7 +43,7 @@
         },
         "title": [
           "わからなくても全力で！",
-          null,
+          "All-Out Even If Unsure!",
           "就算不知道也要用全力！",
           "即便不解仍全力以赴！",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "追いきれないほどの反響",
-          null,
+          "An Overwhelming Response",
           "應接不暇的反響",
           "超乎预期的反响",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2195,
   "gachaText": [
     "ああっ、今のは\nなしでお願いしますー！",
-    "Ahh, please forget what I just said~!",
+    "Ahh, please pretend that didn’t happen~!",
     "呀啊，剛剛的\n請當作沒聽到～！",
     "啊啊，刚才的不算，\n请重来一次~！",
     null
   ],
   "prefix": [
     "誤答もクイズの花？",
-    "Are Wrong Answers the Centerpiece of a Quiz?",
+    "Wrong Answers Can Shine?",
     "答錯也是猜謎亮點？",
     "错答亦是趣味所在？",
     null
   ],
   "releasedAt": [
     "1752127200000",
-    null,
+    "1777338000000",
     "1769065200000",
     "1769835600000",
     null
   ],
   "skillName": [
     "おいしいポジション",
-    "The Sweet Spot",
+    "A Sweet Spot",
     "吃香的定位",
     "划算的位置",
     null
