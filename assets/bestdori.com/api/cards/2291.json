@@ -45,7 +45,7 @@
           "ありがとうは突然に",
           null,
           "謝謝總是來得突然",
-          null,
+          "突如其来的谢谢",
           null
         ],
         "characterId": 36
@@ -94,7 +94,7 @@
           "遠くにありて",
           null,
           "遠在彼方",
-          null,
+          "遥远彼方",
           null
         ],
         "characterId": 36
@@ -106,28 +106,28 @@
     "幸せでいて、ほしい",
     "I want you to be happy",
     "就這樣幸福著，是我所希望的",
-    null,
+    "我希望她们……能获得幸福",
     null
   ],
   "prefix": [
     "想いを綴るひとひら",
     "All of Her Thoughts, on this Single Sheet of Paper",
     "綴寫心意的一頁",
-    null,
+    "书写心意的一页",
     null
   ],
   "releasedAt": [
     "1758261600000",
     null,
     "1775804400000",
-    null,
+    "1777179600000",
     null
   ],
   "skillName": [
     "幸せを祈って",
     "Prayer for Your Happiness",
     "祈求幸福",
-    null,
+    "祈愿幸福",
     null
   ],
   "skillId": 12,

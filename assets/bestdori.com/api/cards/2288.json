@@ -45,7 +45,7 @@
           "おもしれー女の子と",
           null,
           "和有趣的女孩一起",
-          null,
+          "和有趣的女孩一起",
           null
         ],
         "characterId": 38
@@ -94,7 +94,7 @@
           "野良猫の帰る場所",
           null,
           "流浪貓回去的地方",
-          null,
+          "流浪猫的归处",
           null
         ],
         "characterId": 38
@@ -106,28 +106,28 @@
     "……誰？",
     "...Who?",
     "……是誰？",
-    null,
+    "……谁？",
     null
   ],
   "prefix": [
     "気まぐれな野良猫と",
     "With A Capricious Stray Cat",
     "與任性的流浪貓",
-    null,
+    "与随性的流浪猫一起",
     null
   ],
   "releasedAt": [
     "1758261600000",
     null,
     "1775804400000",
-    null,
+    "1777179600000",
     null
   ],
   "skillName": [
     "ブレない姿勢",
     "Unwavering Stance",
     "不被動搖的姿態",
-    null,
+    "坚定不移的姿态",
     null
   ],
   "skillId": 68,
