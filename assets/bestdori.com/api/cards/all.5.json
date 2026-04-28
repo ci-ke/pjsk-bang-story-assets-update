@@ -114603,5 +114603,180 @@
         "visual": 5228
       }
     }
+  },
+  "90041": {
+    "characterId": 1,
+    "rarity": 2,
+    "attribute": "powerful",
+    "levelLimit": 30,
+    "resourceSetName": "res900041",
+    "prefix": [
+      null,
+      "Drive Your Heart",
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      null,
+      "1777338000000",
+      null,
+      null,
+      null
+    ],
+    "skillId": 2,
+    "type": "campaign",
+    "stat": {
+      "1": {
+        "performance": 1861,
+        "technique": 1399,
+        "visual": 2759
+      },
+      "30": {
+        "performance": 4709,
+        "technique": 3539,
+        "visual": 6982
+      }
+    }
+  },
+  "90042": {
+    "characterId": 2,
+    "rarity": 2,
+    "attribute": "powerful",
+    "levelLimit": 30,
+    "resourceSetName": "res900042",
+    "prefix": [
+      null,
+      "Drive Your Heart",
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      null,
+      "1777338000000",
+      null,
+      null,
+      null
+    ],
+    "skillId": 2,
+    "type": "campaign",
+    "stat": {
+      "1": {
+        "performance": 2719,
+        "technique": 1518,
+        "visual": 2033
+      },
+      "30": {
+        "performance": 6880,
+        "technique": 3841,
+        "visual": 5143
+      }
+    }
+  },
+  "90043": {
+    "characterId": 3,
+    "rarity": 2,
+    "attribute": "powerful",
+    "levelLimit": 30,
+    "resourceSetName": "res900043",
+    "prefix": [
+      null,
+      "Drive Your Heart",
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      null,
+      "1777338000000",
+      null,
+      null,
+      null
+    ],
+    "skillId": 2,
+    "type": "campaign",
+    "stat": {
+      "1": {
+        "performance": 2607,
+        "technique": 1650,
+        "visual": 2013
+      },
+      "30": {
+        "performance": 6543,
+        "technique": 4140,
+        "visual": 5052
+      }
+    }
+  },
+  "90044": {
+    "characterId": 4,
+    "rarity": 2,
+    "attribute": "powerful",
+    "levelLimit": 30,
+    "resourceSetName": "res900044",
+    "prefix": [
+      null,
+      "Drive Your Heart",
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      null,
+      "1777338000000",
+      null,
+      null,
+      null
+    ],
+    "skillId": 8,
+    "type": "campaign",
+    "stat": {
+      "1": {
+        "performance": 1940,
+        "technique": 2515,
+        "visual": 2211
+      },
+      "30": {
+        "performance": 4831,
+        "technique": 6263,
+        "visual": 5505
+      }
+    }
+  },
+  "90045": {
+    "characterId": 5,
+    "rarity": 2,
+    "attribute": "powerful",
+    "levelLimit": 30,
+    "resourceSetName": "res900045",
+    "prefix": [
+      null,
+      "Drive Your Heart",
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      null,
+      "1777338000000",
+      null,
+      null,
+      null
+    ],
+    "skillId": 8,
+    "type": "campaign",
+    "stat": {
+      "1": {
+        "performance": 2119,
+        "technique": 2350,
+        "visual": 2198
+      },
+      "30": {
+        "performance": 5276,
+        "technique": 5853,
+        "visual": 5471
+      }
+    }
   }
 }
