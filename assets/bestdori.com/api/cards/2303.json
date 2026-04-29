@@ -44,7 +44,7 @@
         "title": [
           "最高のパーティのために",
           null,
-          null,
+          "為了最棒的派對",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "きみのそばにある歌",
           null,
-          null,
+          "在你身旁的歌",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "じゃあ、まずは私から！",
     "Alrighty, the next one is mine!",
-    null,
+    "那麼，就從我開始吧！",
     null,
     null
   ],
   "prefix": [
     "とびきりプレゼント！",
     "Super Special Gift!",
-    null,
+    "最棒的禮物！",
     null,
     null
   ],
   "releasedAt": [
     "1760076000000",
     null,
-    null,
+    "1777359600000",
     null,
     null
   ],
   "skillName": [
     "励ます言葉",
     "Words of Encouragement",
-    null,
+    "鼓勵的話語",
     null,
     null
   ],

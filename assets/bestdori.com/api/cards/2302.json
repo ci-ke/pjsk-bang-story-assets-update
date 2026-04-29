@@ -9,28 +9,28 @@
   "gachaText": [
     null,
     null,
-    null,
+    "-",
     null,
     null
   ],
   "prefix": [
     "トラベル・トゥモロー",
     "Travel Tomorrow",
-    null,
+    "旅程．明日",
     null,
     null
   ],
   "releasedAt": [
     "1760076000000",
     null,
-    null,
+    "1777359600000",
     null,
     null
   ],
   "skillName": [
     "寄り添う心",
     "Cuddly Heart",
-    null,
+    "相伴的心",
     null,
     null
   ],

@@ -44,7 +44,7 @@
         "title": [
           "私なりの伝え方",
           null,
-          null,
+          "我自己的傳達方式",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "その背中を押せたなら",
           null,
-          null,
+          "若能推那個背一把",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "うん、やっぱりそうだ",
     "Yup, for sure.",
-    null,
+    "嗯，果然是這樣呢",
     null,
     null
   ],
   "prefix": [
     "きみがいつか走る空",
     "The Sky You'll One Day Run Through",
-    null,
+    "妳終有一日奔跑的天空",
     null,
     null
   ],
   "releasedAt": [
     "1760076000000",
     null,
-    null,
+    "1777359600000",
     null,
     null
   ],
   "skillName": [
     "見送るまなざし",
     "A Parting Gaze",
-    null,
+    "目送的眼神",
     null,
     null
   ],

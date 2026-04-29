@@ -104380,14 +104380,14 @@
     "prefix": [
       "夕焼け、輝くかんばせ",
       "Sunset Shimmers, Her Sparkling Gaze",
-      null,
+      "晚霞、閃耀的面龐",
       null,
       null
     ],
     "releasedAt": [
       "1760076000000",
       null,
-      null,
+      "1777359600000",
       null,
       null
     ],
@@ -104433,14 +104433,14 @@
     "prefix": [
       "きみがいつか走る空",
       "The Sky You'll One Day Run Through",
-      null,
+      "妳終有一日奔跑的天空",
       null,
       null
     ],
     "releasedAt": [
       "1760076000000",
       null,
-      null,
+      "1777359600000",
       null,
       null
     ],
@@ -104486,14 +104486,14 @@
     "prefix": [
       "心配と、信頼と",
       "Anxieties, Assurances",
-      null,
+      "擔心與信任",
       null,
       null
     ],
     "releasedAt": [
       "1760076000000",
       null,
-      null,
+      "1777359600000",
       null,
       null
     ],
@@ -104527,14 +104527,14 @@
     "prefix": [
       "トラベル・トゥモロー",
       "Travel Tomorrow",
-      null,
+      "旅程．明日",
       null,
       null
     ],
     "releasedAt": [
       "1760076000000",
       null,
-      null,
+      "1777359600000",
       null,
       null
     ],
@@ -104562,14 +104562,14 @@
     "prefix": [
       "とびきりプレゼント！",
       "Super Special Gift!",
-      null,
+      "最棒的禮物！",
       null,
       null
     ],
     "releasedAt": [
       "1760076000000",
       null,
-      null,
+      "1777359600000",
       null,
       null
     ],
@@ -110959,6 +110959,347 @@
         "performance": 10605,
         "technique": 8651,
         "visual": 11085
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2440": {
+    "characterId": 32,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res032047",
+    "prefix": [
+      "まっすぐな『好き』",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 66,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3980,
+        "technique": 3091,
+        "visual": 3620
+      },
+      "60": {
+        "performance": 11860,
+        "technique": 9211,
+        "visual": 10790
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2441": {
+    "characterId": 35,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res035046",
+    "prefix": [
+      "こっちの道",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 68,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3948,
+        "technique": 3778,
+        "visual": 3069
+      },
+      "60": {
+        "performance": 11765,
+        "technique": 11259,
+        "visual": 9146
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2442": {
+    "characterId": 31,
+    "rarity": 3,
+    "attribute": "pure",
+    "levelLimit": 40,
+    "resourceSetName": "res031048",
+    "prefix": [
+      "きみがいてくれて",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 6,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2862,
+        "technique": 3686,
+        "visual": 2959
+      },
+      "50": {
+        "performance": 8644,
+        "technique": 11132,
+        "visual": 8934
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2443": {
+    "characterId": 33,
+    "rarity": 2,
+    "attribute": "happy",
+    "levelLimit": 30,
+    "resourceSetName": "res033045",
+    "prefix": [
+      "ノーブルオーケストラ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 23,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 1884,
+        "technique": 2086,
+        "visual": 2439
+      },
+      "30": {
+        "performance": 4729,
+        "technique": 5236,
+        "visual": 6122
+      }
+    }
+  },
+  "2444": {
+    "characterId": 34,
+    "rarity": 4,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res034043",
+    "prefix": [
+      "混ぜてくださ～いっ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 61,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3316,
+        "technique": 3840,
+        "visual": 3024
+      },
+      "60": {
+        "performance": 9882,
+        "technique": 11445,
+        "visual": 9013
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2445": {
+    "characterId": 14,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res014087",
+    "prefix": [
+      "街角ファッショニスタ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 78,
+    "type": "dreamfes",
+    "stat": {
+      "1": {
+        "performance": 3747,
+        "technique": 3038,
+        "visual": 3927
+      },
+      "60": {
+        "performance": 11167,
+        "technique": 9052,
+        "visual": 11701
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2446": {
+    "characterId": 29,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res029045",
+    "prefix": [
+      "スマッシュ炸裂！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1777442400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 79,
+    "type": "dreamfes",
+    "stat": {
+      "1": {
+        "performance": 4022,
+        "technique": 3154,
+        "visual": 3535
+      },
+      "60": {
+        "performance": 11983,
+        "technique": 9403,
+        "visual": 10533
       },
       "episodes": [
         {
