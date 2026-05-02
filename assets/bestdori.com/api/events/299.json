@@ -486,624 +486,411 @@
     ],
     [
       {
-        "id": 19113,
-        "eventId": 299,
         "point": "500",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19114,
-        "eventId": 299,
         "point": "1000",
         "rewardType": "coin",
-        "rewardQuantity": 20000,
-        "recommendFlg": false
+        "rewardQuantity": 20000
       },
       {
-        "id": 19115,
-        "eventId": 299,
         "point": "2000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19116,
-        "eventId": 299,
         "point": "3000",
         "rewardType": "item",
         "rewardId": 4,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 19117,
-        "eventId": 299,
         "point": "4000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19118,
-        "eventId": 299,
         "point": "5000",
         "rewardType": "item",
         "rewardId": 8,
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 19119,
-        "eventId": 299,
         "point": "6000",
         "rewardType": "practice_ticket",
         "rewardId": 5,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 19120,
-        "eventId": 299,
         "point": "7000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19121,
-        "eventId": 299,
         "point": "8000",
         "rewardType": "item",
         "rewardId": 12,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 19122,
-        "eventId": 299,
         "point": "9000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19123,
-        "eventId": 299,
         "point": "10000",
         "rewardType": "practice_ticket",
         "rewardId": 9,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19124,
-        "eventId": 299,
         "point": "12000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19125,
-        "eventId": 299,
         "point": "14000",
         "rewardType": "practice_ticket",
         "rewardId": 5,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 19126,
-        "eventId": 299,
         "point": "16000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19127,
-        "eventId": 299,
         "point": "18000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19128,
-        "eventId": 299,
         "point": "20000",
         "rewardType": "situation",
         "rewardId": 2244,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19129,
-        "eventId": 299,
         "point": "22000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19130,
-        "eventId": 299,
         "point": "24000",
         "rewardType": "coin",
-        "rewardQuantity": 20000,
-        "recommendFlg": false
+        "rewardQuantity": 20000
       },
       {
-        "id": 19131,
-        "eventId": 299,
         "point": "27000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19132,
-        "eventId": 299,
         "point": "30000",
         "rewardType": "stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19133,
-        "eventId": 299,
         "point": "35000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19134,
-        "eventId": 299,
         "point": "40000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19135,
-        "eventId": 299,
         "point": "45000",
         "rewardType": "coin",
-        "rewardQuantity": 30000,
-        "recommendFlg": false
+        "rewardQuantity": 30000
       },
       {
-        "id": 19136,
-        "eventId": 299,
         "point": "50000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19137,
-        "eventId": 299,
         "point": "55000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 19138,
-        "eventId": 299,
         "point": "60000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19139,
-        "eventId": 299,
         "point": "65000",
         "rewardType": "item",
         "rewardId": 4,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 19140,
-        "eventId": 299,
         "point": "70000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19141,
-        "eventId": 299,
         "point": "75000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 19142,
-        "eventId": 299,
         "point": "80000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19143,
-        "eventId": 299,
         "point": "85000",
         "rewardType": "item",
         "rewardId": 8,
-        "rewardQuantity": 150,
-        "recommendFlg": false
+        "rewardQuantity": 150
       },
       {
-        "id": 19144,
-        "eventId": 299,
         "point": "90000",
         "rewardType": "coin",
-        "rewardQuantity": 50000,
-        "recommendFlg": false
+        "rewardQuantity": 50000
       },
       {
-        "id": 19145,
-        "eventId": 299,
         "point": "95000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19146,
-        "eventId": 299,
         "point": "100000",
         "rewardType": "situation",
         "rewardId": 2243,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19147,
-        "eventId": 299,
         "point": "105000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19148,
-        "eventId": 299,
         "point": "110000",
         "rewardType": "item",
         "rewardId": 12,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 19149,
-        "eventId": 299,
         "point": "115000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 19150,
-        "eventId": 299,
         "point": "120000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19151,
-        "eventId": 299,
         "point": "125000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 19152,
-        "eventId": 299,
         "point": "130000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19153,
-        "eventId": 299,
         "point": "135000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19154,
-        "eventId": 299,
         "point": "140000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 19155,
-        "eventId": 299,
         "point": "145000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19156,
-        "eventId": 299,
         "point": "150000",
         "rewardType": "practice_ticket",
         "rewardId": 9,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19157,
-        "eventId": 299,
         "point": "155000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19158,
-        "eventId": 299,
         "point": "160000",
         "rewardType": "item",
         "rewardId": 4,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 19159,
-        "eventId": 299,
         "point": "165000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19160,
-        "eventId": 299,
         "point": "170000",
         "rewardType": "item",
         "rewardId": 8,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 19161,
-        "eventId": 299,
         "point": "175000",
         "rewardType": "practice_ticket",
         "rewardId": 3,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19162,
-        "eventId": 299,
         "point": "180000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19163,
-        "eventId": 299,
         "point": "185000",
         "rewardType": "item",
         "rewardId": 12,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 19164,
-        "eventId": 299,
         "point": "190000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19165,
-        "eventId": 299,
         "point": "200000",
         "rewardType": "practice_ticket",
         "rewardId": 9,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19166,
-        "eventId": 299,
         "point": "210000",
         "rewardType": "coin",
-        "rewardQuantity": 50000,
-        "recommendFlg": false
+        "rewardQuantity": 50000
       },
       {
-        "id": 19167,
-        "eventId": 299,
         "point": "220000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19168,
-        "eventId": 299,
         "point": "230000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19169,
-        "eventId": 299,
         "point": "240000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 19170,
-        "eventId": 299,
         "point": "250000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19171,
-        "eventId": 299,
         "point": "260000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 19172,
-        "eventId": 299,
         "point": "270000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19173,
-        "eventId": 299,
         "point": "280000",
         "rewardType": "coin",
-        "rewardQuantity": 100000,
-        "recommendFlg": false
+        "rewardQuantity": 100000
       },
       {
-        "id": 19174,
-        "eventId": 299,
         "point": "300000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19175,
-        "eventId": 299,
         "point": "330000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19176,
-        "eventId": 299,
         "point": "375000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 19177,
-        "eventId": 299,
         "point": "450000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 19178,
-        "eventId": 299,
         "point": "525000",
         "rewardType": "coin",
-        "rewardQuantity": 100000,
-        "recommendFlg": false
+        "rewardQuantity": 100000
       },
       {
-        "id": 19179,
-        "eventId": 299,
         "point": "600000",
         "rewardType": "item",
         "rewardId": 12,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 19180,
-        "eventId": 299,
         "point": "675000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 19181,
-        "eventId": 299,
         "point": "750000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 19182,
-        "eventId": 299,
         "point": "825000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 19183,
-        "eventId": 299,
         "point": "900000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       }
     ],
     [
@@ -2960,1231 +2747,856 @@
     ],
     [
       {
-        "id": 24463,
-        "eventId": 299,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "degree",
         "rewardId": 8102,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24464,
-        "eventId": 299,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24465,
-        "eventId": 299,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24466,
-        "eventId": 299,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24467,
-        "eventId": 299,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24468,
-        "eventId": 299,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24469,
-        "eventId": 299,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "degree",
         "rewardId": 8103,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24470,
-        "eventId": 299,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24471,
-        "eventId": 299,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24472,
-        "eventId": 299,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24473,
-        "eventId": 299,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24474,
-        "eventId": 299,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24475,
-        "eventId": 299,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "degree",
         "rewardId": 8104,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24476,
-        "eventId": 299,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24477,
-        "eventId": 299,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24478,
-        "eventId": 299,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24479,
-        "eventId": 299,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24480,
-        "eventId": 299,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24481,
-        "eventId": 299,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "degree",
         "rewardId": 8105,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24482,
-        "eventId": 299,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24483,
-        "eventId": 299,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24484,
-        "eventId": 299,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24485,
-        "eventId": 299,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24486,
-        "eventId": 299,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24487,
-        "eventId": 299,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "degree",
         "rewardId": 8106,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24488,
-        "eventId": 299,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24489,
-        "eventId": 299,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24490,
-        "eventId": 299,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24491,
-        "eventId": 299,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24492,
-        "eventId": 299,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24493,
-        "eventId": 299,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "degree",
         "rewardId": 8107,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24494,
-        "eventId": 299,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24495,
-        "eventId": 299,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24496,
-        "eventId": 299,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24497,
-        "eventId": 299,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24498,
-        "eventId": 299,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24499,
-        "eventId": 299,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "degree",
         "rewardId": 8108,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24500,
-        "eventId": 299,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24501,
-        "eventId": 299,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24502,
-        "eventId": 299,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24503,
-        "eventId": 299,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24504,
-        "eventId": 299,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24505,
-        "eventId": 299,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "degree",
         "rewardId": 8109,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24506,
-        "eventId": 299,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24507,
-        "eventId": 299,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24508,
-        "eventId": 299,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24509,
-        "eventId": 299,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24510,
-        "eventId": 299,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24511,
-        "eventId": 299,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "degree",
         "rewardId": 8110,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24512,
-        "eventId": 299,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24513,
-        "eventId": 299,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24514,
-        "eventId": 299,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24515,
-        "eventId": 299,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 24516,
-        "eventId": 299,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24517,
-        "eventId": 299,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "degree",
         "rewardId": 8111,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24518,
-        "eventId": 299,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24519,
-        "eventId": 299,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24520,
-        "eventId": 299,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24521,
-        "eventId": 299,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 24522,
-        "eventId": 299,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24523,
-        "eventId": 299,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "degree",
         "rewardId": 8112,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24524,
-        "eventId": 299,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24525,
-        "eventId": 299,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24526,
-        "eventId": 299,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24527,
-        "eventId": 299,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 24528,
-        "eventId": 299,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24529,
-        "eventId": 299,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "degree",
         "rewardId": 8113,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24530,
-        "eventId": 299,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24531,
-        "eventId": 299,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24532,
-        "eventId": 299,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24533,
-        "eventId": 299,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 24534,
-        "eventId": 299,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24535,
-        "eventId": 299,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "degree",
         "rewardId": 8114,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24536,
-        "eventId": 299,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24537,
-        "eventId": 299,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24538,
-        "eventId": 299,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24539,
-        "eventId": 299,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 24540,
-        "eventId": 299,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24541,
-        "eventId": 299,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "degree",
         "rewardId": 8115,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24542,
-        "eventId": 299,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "voice_stamp",
         "rewardId": 501,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24543,
-        "eventId": 299,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24544,
-        "eventId": 299,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24545,
-        "eventId": 299,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 24546,
-        "eventId": 299,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24547,
-        "eventId": 299,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "degree",
         "rewardId": 8116,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24548,
-        "eventId": 299,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 24549,
-        "eventId": 299,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24550,
-        "eventId": 299,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24551,
-        "eventId": 299,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 24552,
-        "eventId": 299,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "degree",
         "rewardId": 8117,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24553,
-        "eventId": 299,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24554,
-        "eventId": 299,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 24555,
-        "eventId": 299,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24556,
-        "eventId": 299,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 24557,
-        "eventId": 299,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "degree",
         "rewardId": 8118,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24558,
-        "eventId": 299,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24559,
-        "eventId": 299,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 24560,
-        "eventId": 299,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24561,
-        "eventId": 299,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 24562,
-        "eventId": 299,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "degree",
         "rewardId": 8119,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24563,
-        "eventId": 299,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24564,
-        "eventId": 299,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 24565,
-        "eventId": 299,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24566,
-        "eventId": 299,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 24567,
-        "eventId": 299,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "degree",
         "rewardId": 8120,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24568,
-        "eventId": 299,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 24569,
-        "eventId": 299,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 24570,
-        "eventId": 299,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24571,
-        "eventId": 299,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 24572,
-        "eventId": 299,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": true
+        "rewardQuantity": 3
       },
       {
-        "id": 24573,
-        "eventId": 299,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24574,
-        "eventId": 299,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 24575,
-        "eventId": 299,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 24576,
-        "eventId": 299,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 24577,
-        "eventId": 299,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 2,
-        "recommendFlg": true
+        "rewardQuantity": 2
       },
       {
-        "id": 24578,
-        "eventId": 299,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 24579,
-        "eventId": 299,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "star",
-        "rewardQuantity": 150,
-        "recommendFlg": false
+        "rewardQuantity": 150
       },
       {
-        "id": 24580,
-        "eventId": 299,
         "fromRank": 50001,
         "toRank": 100000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 24581,
-        "eventId": 299,
         "fromRank": 50001,
         "toRank": 100000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 24582,
-        "eventId": 299,
         "fromRank": 50001,
         "toRank": 100000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 24583,
-        "eventId": 299,
         "fromRank": 50001,
         "toRank": 100000,
         "rewardType": "star",
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 24584,
-        "eventId": 299,
         "fromRank": 100001,
         "toRank": 200000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 24585,
-        "eventId": 299,
         "fromRank": 100001,
         "toRank": 200000,
         "rewardType": "practice_ticket",
         "rewardId": 3,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 24586,
-        "eventId": 299,
         "fromRank": 100001,
         "toRank": 200000,
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 24587,
-        "eventId": 299,
         "fromRank": 100001,
         "toRank": 200000,
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": true
+        "rewardQuantity": 50
       }
     ],
     [
@@ -7564,77 +6976,57 @@
     ],
     [
       {
-        "eventId": 299,
         "musicId": 707,
-        "seq": 1,
         "musicAchievements": [
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "full_combo_easy",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 10000
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "full_combo_expert",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 50000
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "full_combo_hard",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 30000
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "full_combo_normal",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 20000
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "score_rank_a",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "score_rank_b",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "score_rank_c",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "score_rank_s",
             "resourceType": "practice_ticket",
             "resourceId": 6,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 707,
             "achievementType": "score_rank_ss",
             "resourceType": "practice_ticket",
             "resourceId": 6,
@@ -7643,607 +7035,395 @@
         ],
         "musicRankingRewards": [
           {
-            "id": 5907,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "degree",
             "resourceId": 8127,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5908,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5909,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5910,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "degree",
             "resourceId": 8128,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5911,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5912,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5913,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "degree",
             "resourceId": 8129,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5914,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5915,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5916,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "degree",
             "resourceId": 8130,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5917,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5918,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5919,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "degree",
             "resourceId": 8131,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5920,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5921,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5922,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "degree",
             "resourceId": 8132,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5923,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5924,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5925,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "degree",
             "resourceId": 8133,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5926,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5927,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5928,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "degree",
             "resourceId": 8134,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5929,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5930,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5931,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "degree",
             "resourceId": 8135,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5932,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5933,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5934,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "degree",
             "resourceId": 8136,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5935,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5936,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5937,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "degree",
             "resourceId": 8137,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5938,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5939,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5940,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "degree",
             "resourceId": 8138,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5941,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5942,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5943,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "degree",
             "resourceId": 8139,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5944,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5945,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5946,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 501,
             "toRank": 1000,
             "resourceType": "degree",
             "resourceId": 8140,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5947,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 501,
             "toRank": 1000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5948,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 1001,
             "toRank": 2000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 5949,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 2001,
             "toRank": 5000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 5950,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 5001,
             "toRank": 10000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 5951,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 10001,
             "toRank": 20000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 2,
-            "recommendFlg": false
+            "quantity": 2
           },
           {
-            "id": 5952,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 20001,
             "toRank": 30000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5953,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 30001,
             "toRank": 50000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5954,
-            "eventId": 299,
-            "musicId": 707,
             "fromRank": 50001,
             "toRank": 100000,
             "resourceType": "practice_ticket",
             "resourceId": 7,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           }
         ]
       },
       {
-        "eventId": 299,
         "musicId": 354,
-        "seq": 2,
         "musicAchievements": [
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "full_combo_easy",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 10000
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "full_combo_expert",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 50000
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "full_combo_hard",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 30000
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "full_combo_normal",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 20000
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "score_rank_a",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "score_rank_b",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "score_rank_c",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "score_rank_s",
             "resourceType": "practice_ticket",
             "resourceId": 6,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 354,
             "achievementType": "score_rank_ss",
             "resourceType": "practice_ticket",
             "resourceId": 6,
@@ -8252,607 +7432,395 @@
         ],
         "musicRankingRewards": [
           {
-            "id": 5955,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "degree",
             "resourceId": 8141,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5956,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5957,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5958,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "degree",
             "resourceId": 8142,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5959,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5960,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5961,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "degree",
             "resourceId": 8143,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5962,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5963,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5964,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "degree",
             "resourceId": 8144,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5965,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5966,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5967,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "degree",
             "resourceId": 8145,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5968,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5969,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5970,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "degree",
             "resourceId": 8146,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5971,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5972,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5973,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "degree",
             "resourceId": 8147,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5974,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5975,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5976,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "degree",
             "resourceId": 8148,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5977,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5978,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5979,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "degree",
             "resourceId": 8149,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5980,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5981,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 5982,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "degree",
             "resourceId": 8150,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5983,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5984,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5985,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "degree",
             "resourceId": 8151,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5986,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5987,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5988,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "degree",
             "resourceId": 8152,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5989,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5990,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5991,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "degree",
             "resourceId": 8153,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5992,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 5993,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5994,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 501,
             "toRank": 1000,
             "resourceType": "degree",
             "resourceId": 8154,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 5995,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 501,
             "toRank": 1000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 5996,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 1001,
             "toRank": 2000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 5997,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 2001,
             "toRank": 5000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 5998,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 5001,
             "toRank": 10000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 5999,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 10001,
             "toRank": 20000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 2,
-            "recommendFlg": false
+            "quantity": 2
           },
           {
-            "id": 6000,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 20001,
             "toRank": 30000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6001,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 30001,
             "toRank": 50000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6002,
-            "eventId": 299,
-            "musicId": 354,
             "fromRank": 50001,
             "toRank": 100000,
             "resourceType": "practice_ticket",
             "resourceId": 7,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           }
         ]
       },
       {
-        "eventId": 299,
         "musicId": 632,
-        "seq": 3,
         "musicAchievements": [
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "full_combo_easy",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 10000
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "full_combo_expert",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 50000
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "full_combo_hard",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 30000
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "full_combo_normal",
             "resourceType": "coin",
             "resourceId": 0,
             "quantity": 20000
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "score_rank_a",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "score_rank_b",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "score_rank_c",
             "resourceType": "practice_ticket",
             "resourceId": 2,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "score_rank_s",
             "resourceType": "practice_ticket",
             "resourceId": 6,
             "quantity": 1
           },
           {
-            "eventId": 299,
-            "musicId": 632,
             "achievementType": "score_rank_ss",
             "resourceType": "practice_ticket",
             "resourceId": 6,
@@ -8861,532 +7829,340 @@
         ],
         "musicRankingRewards": [
           {
-            "id": 6003,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "degree",
             "resourceId": 8155,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6004,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6005,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 1,
             "toRank": 1,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6006,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "degree",
             "resourceId": 8156,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6007,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6008,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 2,
             "toRank": 2,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6009,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "degree",
             "resourceId": 8157,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6010,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6011,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 3,
             "toRank": 3,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6012,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "degree",
             "resourceId": 8158,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6013,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6014,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 4,
             "toRank": 10,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6015,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "degree",
             "resourceId": 8159,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6016,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6017,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 11,
             "toRank": 20,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6018,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "degree",
             "resourceId": 8160,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6019,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6020,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 21,
             "toRank": 30,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6021,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "degree",
             "resourceId": 8161,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6022,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6023,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 31,
             "toRank": 40,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6024,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "degree",
             "resourceId": 8162,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6025,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6026,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 41,
             "toRank": 50,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6027,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "degree",
             "resourceId": 8163,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6028,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6029,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 51,
             "toRank": 100,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           },
           {
-            "id": 6030,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "degree",
             "resourceId": 8164,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6031,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6032,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 101,
             "toRank": 200,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 6033,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "degree",
             "resourceId": 8165,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6034,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6035,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 201,
             "toRank": 300,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 6036,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "degree",
             "resourceId": 8166,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6037,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6038,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 301,
             "toRank": 400,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 6039,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "degree",
             "resourceId": 8167,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6040,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "voice_stamp",
             "resourceId": 501,
-            "quantity": 1,
-            "recommendFlg": true
+            "quantity": 1
           },
           {
-            "id": 6041,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 401,
             "toRank": 500,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 6042,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 501,
             "toRank": 1000,
             "resourceType": "degree",
             "resourceId": 8168,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6043,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 501,
             "toRank": 1000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 4,
-            "recommendFlg": false
+            "quantity": 4
           },
           {
-            "id": 6044,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 1001,
             "toRank": 2000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 6045,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 2001,
             "toRank": 5000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 6046,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 5001,
             "toRank": 10000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 3,
-            "recommendFlg": false
+            "quantity": 3
           },
           {
-            "id": 6047,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 10001,
             "toRank": 20000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 2,
-            "recommendFlg": false
+            "quantity": 2
           },
           {
-            "id": 6048,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 20001,
             "toRank": 30000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6049,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 30001,
             "toRank": 50000,
             "resourceType": "practice_ticket",
             "resourceId": 8,
-            "quantity": 1,
-            "recommendFlg": false
+            "quantity": 1
           },
           {
-            "id": 6050,
-            "eventId": 299,
-            "musicId": 632,
             "fromRank": 50001,
             "toRank": 100000,
             "resourceType": "practice_ticket",
             "resourceId": 7,
-            "quantity": 5,
-            "recommendFlg": false
+            "quantity": 5
           }
         ]
       }

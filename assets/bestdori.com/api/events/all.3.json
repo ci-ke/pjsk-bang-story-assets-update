@@ -7803,7 +7803,7 @@
     "eventType": "live_try",
     "eventName": [
       "果てなき距離の、その果てへ",
-      "To The End Of This Endless Distance",
+      "To the End of This Endless Distance",
       "奔向無盡彼方的盡頭",
       "心向无限、行往彼方",
       null
@@ -7812,14 +7812,14 @@
     "bannerAssetBundleName": "banner_event301",
     "startAt": [
       "1752991200000",
-      null,
+      "1778115600000",
       "1769842800000",
       "1771736400000",
       null
     ],
     "endAt": [
       "1753790399000",
-      null,
+      "1778741999000",
       "1770469199000",
       "1772549999000",
       null

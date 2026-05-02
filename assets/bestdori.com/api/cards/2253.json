@@ -43,7 +43,7 @@
         },
         "title": [
           "同じステージを目指して",
-          null,
+          "Toward the Same Stage",
           "朝著同一個舞台前進",
           "向着同一个舞台进发",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "全て意味のあること",
-          null,
+          "Everything Has Its Meaning",
           "一切都是有意義的",
           "一切皆有意义",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2196,
   "gachaText": [
     "（――目指していた場所が、\nすぐそこまで来ている）",
-    null,
+    "(—The place I’ve been striving for... is almost within reach.)",
     "（――我一直追尋的目標，\n已經近在眼前了）",
     "（——我一直追寻的目标，\n已经近在眼前了）",
     null
   ],
   "prefix": [
     "遠回りの果てに",
-    "At Detour's End",
+    "At the End of a Winding Path",
     "繞遠路的盡頭",
     "迂回的尽头",
     null
   ],
   "releasedAt": [
     "1752991200000",
-    null,
+    "1778115600000",
     "1769756400000",
     "1771736400000",
     null
   ],
   "skillName": [
     "まだ足りないもの",
-    "What We Still Lack",
+    "Still Not Enough",
     "不足的事物",
     "尚且不足之物",
     null

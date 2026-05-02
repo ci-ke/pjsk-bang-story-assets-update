@@ -43,7 +43,7 @@
         },
         "title": [
           "わたしだからできること",
-          null,
+          "What Only I Can Do",
           "我才能做到的事",
           "唯有我能做到的事",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "託された願いを胸に",
-          null,
+          "Carrying the Hopes I Was Given",
           "心懷被託付的願望",
           "怀着被寄托的愿望",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2200,
   "gachaText": [
     "わたしが、あこちゃんに\n言ったんです……",
-    null,
+    "I was the one who told Ako-chan...",
     "是我，\n跟小亞說的……",
     "是我对\n小亚子说的……",
     null
   ],
   "prefix": [
     "夕暮れの誓い",
-    "Swear A Twilit Vow",
+    "Twilight Promise",
     "夕陽下的誓言",
     "暮色中的誓言",
     null
   ],
   "releasedAt": [
     "1752991200000",
-    null,
+    "1778115600000",
     "1769756400000",
     "1771736400000",
     null
   ],
   "skillName": [
     "共に走り続ける覚悟",
-    "Prepared To Charge On As One",
+    "Resolve to Run Together",
     "並肩奔跑的覺悟",
     "并肩前行的觉悟",
     null
